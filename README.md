@@ -10,3 +10,5 @@ Correlation_matrix: Correlation matrix for dataset selection
 Trading_simulation: The simulation of the trading strategies and their evaluation
 
 ARIMA: Estimation of the optimal model with Box-Jenkins methodology and forecasting
+
+LSTM_ARIMA_COMPARISON: Comparison of the LSTM and ARIMA in terms of forecasting accuracy
