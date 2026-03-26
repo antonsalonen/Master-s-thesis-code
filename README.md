@@ -7,3 +7,4 @@ Includes the LSTM training, forecasting, and SHAP analysis
 
 Correlation_matrix: Correlation matrix for dataset selection
 
+Trading_simulation: Includes the simulation of the trading strategies and their evaluation
